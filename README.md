@@ -9,15 +9,6 @@ Preprocessing of data is necessary to extract the important information from the
 the data. Data preprocessing is done by first extracting various attributes from the data. Again, selection of the best few attributes was necessary as some of these attributes might
 not give us important information and hamper the results. In addition, elimination of some of these attributes was necessary to escape the curse of dimensionality. The attributes were selected according to their strength of class separability.
 
-Feature Extraction
-
-Raw data does not always give good and accurate results
-
-Extraction of attributes are necessary to capture important information 
-
-19 Attributes were Extracted
-
-
 Clustering techniques
 
 After pre-processing, I explored the data with different clustering techniques. Clustering is partitioning a group of entities (data points) into different groups (clusters)
